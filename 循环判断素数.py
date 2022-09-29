@@ -6,6 +6,6 @@ for a in range(1,num1+1):
             break 
     else :
         print(a,'是素数')
-        
+        print("测试")
     
     
